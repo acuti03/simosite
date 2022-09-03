@@ -2,6 +2,9 @@
   "name": "simosite",
   "version": "0.1.0",
   "private": true,
+  "description": "Simone's website",
+  "author": "Simone Acuti",
+  "license": "GPLv3",
   "dependencies": {
     "@chakra-ui/icons": "^2.0.4",
     "@chakra-ui/react": "^2.2.4",

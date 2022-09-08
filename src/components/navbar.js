@@ -62,7 +62,7 @@ const Navbar = () => {
                     <NavLink to='/works'>
                         <Link>Projects</Link>
                     </NavLink>
-                    <Link href='https://simolinks-5349d.web.app/' isExternal>Links</Link>
+                    <Link href='https://simolinks-e9d54.web.app/' isExternal>Links</Link>
                     <Link href='https://github.com/acuti03/simosite' isExternal display='inline-flex'>
                         <Icon as={AiFillGithub} w={6} h={6} mr={1} />
                         Source

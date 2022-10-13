@@ -46,7 +46,7 @@ const Works = () =>{
                         </SimpleGrid>
                         <Heading variant='title' mt={10}>In progress:</Heading>
                         <SimpleGrid columns={[1,1,2]} gap={6} mt={10}>
-                            <Card_2 titolo='Minecraft mod' value={5} valueNum='5%' color='red'/>
+                            <Card_2 titolo='Dama-C' value={55} valueNum='55%' color='yellow'/>
                             <Card_2 titolo='Bot 2.0' value={5} valueNum='5%' color='red'/>
                         </SimpleGrid>
                         <Footer/>

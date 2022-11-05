@@ -87,12 +87,12 @@ const Home = () =>{
                   <Highlight 
                     query='2 Year:'
                     styles={{fontWeight: '800', fontSize:18, fontFamily:"'M PLUS Rounded 1c'" , color:useColorModeValue('purple.500', 'orange.200')}}>
-                  2 Year: in the second year I completed the path of the C language and I started to intertwine with other languages such as php, Java and JavaScript.
+                  2 Year: at the second year I completed the path of the C language and I started to intertwine with other languages such as php, Java and JavaScript.
                   </Highlight><br/><br/>
                   <Highlight
                     query='3 Year:'
                     styles={{fontWeight: '800', fontSize:18, fontFamily:"'M PLUS Rounded 1c'" , color:useColorModeValue('purple.500', 'orange.200')}}>
-                  3 Year: The third year was where I learned the most, such as relational models, SQL language and php. I started producing my first projects like a web-chat.
+                  3 Year: the third year was where I learned the most, such as relational models, SQL language and php. I started producing my first projects like a web-chat.
                   </Highlight>
               </Text>
             </Box>

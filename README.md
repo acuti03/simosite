@@ -16,4 +16,7 @@ A website that contains more information about me and my projects:
 
 ![projectDark](./src/images/projectDark.jpg)
 
-## 📚Used Library
+## 📚Used Library:
+
+- [Framer Motion](https://www.framer.com/motion/)
+- [Chakra UI](https://chakra-ui.com/)
